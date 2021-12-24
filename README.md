@@ -1,16 +1,27 @@
 # Projects
 
-## Web Dev
+### Pizzeria (On-going)
+##### Summary
+A food ecommerce site hosted on Azure App service.
 
-### Pizzeria
-A food ecommerce site with an app that allows customers to customise a pizza for order.
-It uses ASP.NET Core web forms and React for the custom pizza app.
+##### Technology:
+- ASP.NET Core MVC
+- Azure Cosmos DB
+- Azure App Service
+- Bootstrap
 
+##### URL
 pizzeria-portfolio.azurewebsites.net
+ 
+### Commute London (On-going)
+##### Summary
+A food ecommerce site hosted on Azure App service.
 
-### IT Jobs
-A jobsite made with React. It uses an ASP.NET Core backend. 
+##### Technology:
+- ASP.NET Core (Proxy API)
+- TFL API
+- Azure App Service (Web Host)
+- React
+- Bootstrap
 
-### Commute London
-A journey planner that uses the TFL API.
-
+##### URL

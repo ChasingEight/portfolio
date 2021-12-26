@@ -11,7 +11,7 @@ A food ecommerce site hosted on Azure App service.
 - Bootstrap
 
 ##### URL
-pizzeria-portfolio.azurewebsites.net
+[pizzeria-portfolio.azurewebsites.net]
  
 ### Commute London (On-going)
 ##### Summary
@@ -25,3 +25,4 @@ A food ecommerce site hosted on Azure App service.
 - Bootstrap
 
 ##### URL
+[http://commute-london.azurewebsites.net/]

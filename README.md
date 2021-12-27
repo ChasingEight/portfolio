@@ -11,11 +11,11 @@ A food ecommerce site hosted on Azure App service.
 - Bootstrap
 
 ##### URL
-<https://pizzeria-portoflio.azurewebsites.net>
+<https://pizzeria-portfolio.azurewebsites.net/>
  
 ### Commute London (On-going)
 ##### Summary
-A food ecommerce site hosted on Azure App service.
+A journey planner web app that uses the Transport For London API
 
 ##### Technology:
 - ASP.NET Core (Proxy API)
@@ -25,4 +25,4 @@ A food ecommerce site hosted on Azure App service.
 - Bootstrap
 
 ##### URL
-[https://commute-london.azurewebsites.net]
+<https://commute-london.azurewebsites.net>

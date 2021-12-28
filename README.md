@@ -2,27 +2,25 @@
 
 ### Pizzeria (On-going)
 ##### Summary
-A food ecommerce site hosted on Azure App service.
+A pizza e-commerce site.
 
 ##### Technology:
 - ASP.NET Core MVC
 - Azure Cosmos DB
-- Azure App Service
 - Bootstrap
 
 ##### URL
 <https://pizzeria-portfolio.azurewebsites.net/>
  
-### Commute London (On-going)
+### Travel London (On-going)
 ##### Summary
-A journey planner web app that uses the Transport For London API
+A journey planner web app that uses the Transport For London API.
 
 ##### Technology:
 - ASP.NET Core (Proxy API)
 - TFL API
-- Azure App Service (Web Host)
 - React
 - Bootstrap
 
 ##### URL
-<https://commute-london.azurewebsites.net>
+<https://travel-london.azurewebsites.net>

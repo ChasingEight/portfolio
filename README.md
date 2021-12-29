@@ -14,11 +14,12 @@ A pizza e-commerce site.
  
 ### Travel London (On-going)
 ##### Summary
-A journey planner web app that uses the Transport For London API.
+A journey planner web app that uses third-party APIs.
 
 ##### Technology:
-- ASP.NET Core (Proxy API)
+- ASP.NET Core (Web API)
 - TFL API
+- Google Maps APIs (Places API)
 - React
 - Bootstrap
 
